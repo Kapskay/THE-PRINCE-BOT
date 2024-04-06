@@ -12,15 +12,15 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
-  [''], 
-  [''] 
+  ["260776642930", "Nipsy", true],
+  ['260776642930'], 
+  ['260776642930'] 
 ]
 //💌------------------------------------------💌
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+global.mods = ['260776642930'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -50,7 +50,7 @@ global.APIs = { // API Prefix
 
 //APIKEYS
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://website': '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'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://zenzapis.xyz': '675e34de8a', 
   'https://api.fgmods.xyz': 'dEBWvxCY'
@@ -114,20 +114,20 @@ global.princegpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/message/260776642930' //contact
 //💌------------------------------------------💌
 
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
+global.botname = 'Nipsy🇿🇲☘️-𝘉𝘖𝘛-𝘔𝘋'
+global.princebot = '🛡️Nipsy🇿🇲☘️-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.packname = 'Creation♥️' 
+global.author = 'Nipsy's♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
+global.Princesc = 'https://github.com/PRINCE-GDS/THE-Nipsy-BOT' 
 global.princeyt = 'https://youtube.com/'
 global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
